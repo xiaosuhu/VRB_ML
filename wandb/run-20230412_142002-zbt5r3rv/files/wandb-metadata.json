@@ -1,0 +1,43 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-04-12T18:20:03.557022",
+    "startedAt": "2023-04-12T18:20:02.669595",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-DCC3DRB",
+    "username": "PainTrek",
+    "executable": "C:\\Users\\PainT\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2801.0,
+        "min": 0.0,
+        "max": 2801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2801.0,
+            "min": 0.0,
+            "max": 2801.0
+        }
+    ],
+    "disk": {
+        "total": 930.6640586853027,
+        "used": 1.5433921813964844
+    },
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.872238159179688
+    }
+}
