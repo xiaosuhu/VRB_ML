@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-04-12T19:32:37.021154",
+    "startedAt": "2023-04-12T19:32:36.474286",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/xiaosuhu/VRB_ML.git",
+        "commit": "eba935a3d7f525132032ae1d34c88eef308157a8"
+    },
+    "email": "xiaosuhu@outlook.com",
+    "root": "D:/Python/Pytorch/Code",
+    "host": "DESKTOP-DCC3DRB",
+    "username": "PainTrek",
+    "executable": "C:\\Users\\PainT\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2801.0
+        }
+    ],
+    "disk": {
+        "total": 930.6640586853027,
+        "used": 1.5436897277832031
+    },
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.872238159179688
+    }
+}
