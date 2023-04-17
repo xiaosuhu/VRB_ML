@@ -1,1 +1,0 @@
-{"epoch": 2, "train_loss": 0.6092327237129211, "val_acc": 0.8255894590846047, "val_loss": 0.5538887977600098, "true_pos": 0.06017191977077364, "true_neg": 0.9309664694280079, "model": "efficientnet_b2", "_timestamp": 1681426784.7404099, "_runtime": 90.90789890289307, "_step": 1, "_wandb": {"runtime": 90}}
